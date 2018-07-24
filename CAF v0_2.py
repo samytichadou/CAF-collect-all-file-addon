@@ -6,8 +6,8 @@ bl_info = {
  "location": "Import-Export > Collect All Files",  
  "description": "Add a Menu in the Info/File header to Collect your external files, copy them in a dedicated folder near the .blend, and relink the datablocks",  
  "warning": "Some Type of proprietary files can cause errors. Doesn't work with an unsaved .blend, it is strongly recommanded to Save As before using. Still experimental.",
- "wiki_url": "http://www.samytichadou.com",  
- "tracker_url": "http://www.samytichadou.com/moi",  
+ "wiki_url": "https://github.com/samytichadou/CAF-collect-all-file-addon",  
+ "tracker_url": "https://github.com/samytichadou/CAF-collect-all-file-addon/issues/new",  
  "category": "Import-Export"}  
 
 
